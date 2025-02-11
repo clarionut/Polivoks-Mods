@@ -1,7 +1,7 @@
 # Polivoks-Mods
 This repository contains details of modifications to my Formanta Polivoks synthesiser
 
-Please note that these are modifications I've successfully made to my own Polivoks. However, I have absolutely no electronics qualifications - so be sure to fully understand the implications of any changes you might wish to make to your own synth, especially as there have been several revisions to the Polivoks boards.
+Please note that these are modifications I've successfully made to my own Polivoks. Bear in mind that I have absolutely no electronics qualifications - so be sure to fully understand the implications of any changes you might wish to make to your own synth, especially as there have been several revisions to the Polivoks boards.
 
 1. Fitted a Logich Duophonic MIDI kit. Problem free installation according to the instructions, but with additional inline Dupont connectors in some of the wiring. This allows the Polivoks X1 oscillator card and the corresponding main board to be fully disconnected from the newly added components. See the picture.
 2. Replaced the very badly worn LFO (Modulator) 100k potentiometer. The replacement is 1M, which allows much lower frequency modulation at the expense of some compression of the higher frequency end of the scale.
