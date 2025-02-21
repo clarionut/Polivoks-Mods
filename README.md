@@ -1,4 +1,4 @@
-# Polivoks-Mods
+# Polivoks Mods
 This repository contains details of modifications to my Formanta Polivoks synthesiser
 
 Please note that these are modifications I've successfully made to my own Polivoks. Bear in mind that I have absolutely no electronics qualifications - so be sure to fully understand the implications of any changes you might wish to make to your own synth, especially as there have been several revisions to the Polivoks boards.
